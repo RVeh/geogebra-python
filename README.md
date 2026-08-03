@@ -7,7 +7,7 @@
 Die Python-Notebooks können ohne Installation direkt im Browser geöffnet,
 verändert und ausgeführt werden.
 
-[![JupyterLite](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://rveh.github.io/symmetrie-stochastik/jupyterlite/lab/index.html?path=00_Start.ipynb)
+[![JupyterLite](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://rveh.github.io/geogebra-python/jupyterlite/lab/index.html?path=00_Start.ipynb)
 
 Als Einstieg dient die Datei `00_Start.ipynb`; sie enthält eine Übersicht und
 direkte Verweise auf alle drei Simulationsprogramme.
